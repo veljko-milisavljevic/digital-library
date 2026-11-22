@@ -97,6 +97,12 @@ The user manual is in [`Uputstvo za korišćenje.docx`](Uputstvo%20za%20kori%C5%
 - Member e-mail addresses are not entered: they are generated from the name (and, for students, the date of birth) on the school's domain.
 - E-mail sending is fire-and-forget (`SendAsync`), and errors are not shown to the user.
 
+## License
+
+The source code is licensed under the [MIT License](LICENSE).
+
+The logo (`BibliotekaUI/Logo.png`) and the icons in `Slike/` were downloaded from the internet a long time ago and their source and licence are unknown. They are **not** covered by the MIT License and should be replaced with freely licensed assets before any reuse.
+
 ## Author
 
 **Veljko Milisavljević** · [GitHub](https://github.com/veljko-milisavljevic)
